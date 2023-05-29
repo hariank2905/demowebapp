@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to Hari, Sushmitha, Shwetha, Vasi, Anil,  and Sushma on behalf of DevOps Academy</h2>
-            <h2 class="text-center">Welcome to Harikishore A B && Ankitha A B on behalf of DevOps Academy</h2>
+      <h2 class="text-center">Welcome to Harikishore A B && Ankitha A B on behalf of DevOps Academy</h2>
 
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
